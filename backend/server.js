@@ -8,11 +8,6 @@ app.use(express.json())
 app.use(express.urlencoded({extended: true}))
 dotenv.config()
 //connectDB()
-///******variable entorno MODO de DATABA
-
-const modesPrueba = process.env.FSDB
-
-///******variable entorno MODO de DATABAS
 
 app.use("/api/productos", rutasProductos)
 app.use("/api/carrito", rutasCarrito)
@@ -31,5 +26,3 @@ app.listen(PORT, (err) => {
 
    console.log(`Servidor Funcionando en el Puerto ${PORT}`)
 })
-
-export {modesPrueba}
