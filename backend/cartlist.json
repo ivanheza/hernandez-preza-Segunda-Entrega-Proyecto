@@ -1,0 +1,22 @@
+[
+  {
+    "id": "cart_9d99",
+    "timestamp": "4-Mar-22,12:02 pm",
+    "products": [
+      {
+        "id": "4ba417cw",
+        "timestamp": "4-Mar-22,11:57 am",
+        "nombre": "Adidas Predator MAX",
+        "precio": "2700",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, officia.",
+        "codigo": "SDSADJAKF",
+        "stock": "10"
+      }
+    ]
+  },
+  {
+    "id": "cart_addb",
+    "timestamp": "4-Mar-22,12:29 pm",
+    "productos": []
+  }
+]

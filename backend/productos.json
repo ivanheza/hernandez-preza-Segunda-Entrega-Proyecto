@@ -1,0 +1,72 @@
+[
+   {
+      "id": "454c6b7w",
+      "timestamp": "4-Mar-22,12:24 pm",
+      "nombre": "Timberland Trek",
+      "precio": 4800,
+      "foto": "https://m.media-amazon.com/images/I/91zdUxuoRqL._AC_SY695_.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, officia.",
+      "codigo": "SDSADDAKF",
+      "stock": 5
+   },
+   {
+      "id": "78x43zdx",
+      "timestamp": "4-Mar-22,12:24 pm",
+      "nombre": "Adidas Predator MAX",
+      "precio": 2700,
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB2ipOpkG4_v91qrHoChOaD0_IcAUhfGbXxw&usqp=CAU",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, officia.",
+      "codigo": "SDSADJAKF",
+      "stock": 6
+   },
+   {
+      "id": "b98axcx8",
+      "timestamp": "4-Mar-22,12:25 pm",
+      "nombre": "Air Max",
+      "precio": 4200,
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNT9JKj73Li5AOiPka7RkZyH2qN5WrnkIBdg&usqp=CAU",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, officia.",
+      "codigo": "SDSADJAKF",
+      "stock": 20
+   },
+   {
+      "id": "9b82ayz2",
+      "timestamp": "4-Mar-22,12:25 pm",
+      "nombre": "Balenciaga S",
+      "precio": 8000,
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDB9NDmouYivAozb1XzGhnnnIOn8QXYDomWQ&usqp=CAU",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, officia.",
+      "codigo": "SDSADJAKF",
+      "stock": 3
+   },
+   {
+      "id": "z8bx3458",
+      "timestamp": "4-Mar-22,12:25 pm",
+      "nombre": "Adidas 3",
+      "precio": 4500,
+      "foto": "https://images.unsplash.com/photo-1605348532760-6753d2c43329?ixlib=rb-1.2.1&idescripcionMnwxMjA3fDB8MHxzZWFyY2h8NXx8c25lYWtlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, officia.",
+      "codigo": "SDSADJAKF",
+      "stock": 4
+   },
+   {
+      "id": "d4cb37d4",
+      "timestamp": "4-Mar-22,12:25 pm",
+      "nombre": "Adidas Bounce",
+      "precio": 4500,
+      "foto": "https://cdn1.coppel.com/images/catalog/pr/8298822-1.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, officia.",
+      "codigo": "SDSADJAKF",
+      "stock": 4
+   },
+   {
+      "id": "18zb364x",
+      "timestamp": "4-Mar-22,12:25 pm",
+      "nombre": "PUMA KING NEW",
+      "precio": 2400,
+      "foto": "https://www.futbolemotion.com/imagesarticulos/135077/750/zapatilla-puma-king-top-turf-puma-black-puma-white-0.webp",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, officia.",
+      "codigo": "cod-000",
+      "stock": 6
+   }
+]
