@@ -2,3 +2,4 @@
 #nodeModules
 
 node_modules
+.gitignore
